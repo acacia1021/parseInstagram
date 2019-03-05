@@ -1,0 +1,1 @@
+parse-dashboard --appId acacia-instagram-codepath --masterKey CodepathInstagramMoveFast --serverURL "http://acacia-instagram-codepath.herokuapp.com/parse"
